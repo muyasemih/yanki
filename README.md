@@ -2,7 +2,7 @@
 
 > Find your way through total darkness using sound — but every sound you make draws the creatures closer.
 
-**Platform:** Browser (desktop & mobile) · **Built with:** HTML5 Canvas, vanilla JavaScript, Web Audio API
+**Platform:** Browser (desktop & mobile) · **Built with:** HTML5 Canvas, vanilla JavaScript, Web Audio API · developed with AI-assisted coding
 
 > 🔒 This is a **showcase repository**. The source code is kept private.
 
